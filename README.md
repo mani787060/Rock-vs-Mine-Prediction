@@ -219,12 +219,6 @@ The Sonar dataset contains **60 numerical features** representing sonar signal r
 
 ---
 
-## 🏁 Conclusion
-
-This project demonstrates how machine learning can be used to classify sonar signals as either **Rock** or **Mine**. It covers the complete workflow from data preprocessing to prediction, providing a solid understanding of binary classification and model evaluation using real-world data.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -233,3 +227,11 @@ This project demonstrates how machine learning can be used to classify sonar sig
 * Matplotlib
 * Seaborn
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+This project demonstrates how machine learning can be used to classify sonar signals as either **Rock** or **Mine**. It covers the complete workflow from data preprocessing to prediction, providing a solid understanding of binary classification and model evaluation using real-world data.
+
+
